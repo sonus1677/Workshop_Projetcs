@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Machine Learning Live Projects
 
 You can use the [editor on GitHub](https://github.com/sonus1677/Workshop_Projetcs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
